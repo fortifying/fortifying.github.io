@@ -18,7 +18,7 @@ Twitter: 'mytwitter'
 Instagram: 'myinsta'
 #pinterest: 'mypinterest'
 #YouTube: 'myyoutube'
-Github: 'github.com/fortifying'
+github: 'github.com/fortifying'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -89,7 +89,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: Github
+  - name: github
     url-pattern: github.com/fortifying
     icon-class: fab fa-2x fa-github
 
