@@ -12,14 +12,14 @@ favicon: 'fortizer.png'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-telegram: 'fortifying'
-twitter: 'mytwitter'
+Facebook: 'myfacebook'
+Telegram: 'fortifying'
+Twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-instagram: 'myinsta'
+Instagram: 'myinsta'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
-github-user: 'github.com/fortifying'
+Github: 'github.com/fortifying'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -33,10 +33,10 @@ github-user: 'github.com/fortifying'
 #weibo: 'myweibo'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
-email: 'darkcyborg7@gmail.com'
-messenger: 'fb.com/ehyder.io'
+Email: 'darkcyborg7@gmail.com'
+Messenger: 'fb.com/ehyder.io'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [Github, Facebook, Twitter, Telegram, Instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, Messenger, blog_url, Email]
 
 # Advanced settings
 plugins:
@@ -62,11 +62,11 @@ plugins:
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: facebook
+  - name: Facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: twitter
+  - name: Twitter
     url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
@@ -81,7 +81,7 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: instagram
+  - name: Instagram
     url-pattern: instagram.com/__USERNAME__
 
   - name: flickr
@@ -90,7 +90,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: Github
     url-pattern: github.com/fortifying
     icon-class: fab fa-2x fa-github
 
@@ -138,11 +138,11 @@ social-links:
   - name: keybase
     url-pattern: keybase.io/__USERNAME__
 
-  - name: messenger
+  - name: Messenger
     url-pattern: m.me/__USERNAME__
     icon-class: fab fa-2x fa-facebook-messenger
 
-  - name: telegram
+  - name: Telegram
     url-pattern: telegram.me/__USERNAME__
 
   - name: snapchat
@@ -155,7 +155,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-tags
 
-  - name: email
+  - name: Email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-envelope
