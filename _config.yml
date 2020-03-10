@@ -1,5 +1,5 @@
 # Theme
-remote_theme: 'epidrome/cover-card'
+remote_theme: 'fortifying/fortifying.github.io'
 
 # Title and tag line
 title: 'Heinz Der Flugel'
@@ -12,13 +12,13 @@ favicon: 'fortizer.png'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
+Facebook: 'myfacebook'
+Twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
 instagram: 'myinsta'
 #pinterest: 'mypinterest'
 #YouTube: 'myyoutube'
-github-user: 'github.com/fortifying'
+Github: 'github.com/fortifying'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -32,8 +32,8 @@ github-user: 'github.com/fortifying'
 #weibo: 'myweibo'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
-email: 'darkcyborg7@gmail.com'
-messenger: 'fb.com/ehyder.io'
+Email: 'darkcyborg7@gmail.com'
+Messenger: 'fb.com/ehyder.io'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
@@ -61,11 +61,11 @@ plugins:
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: facebook
+  - name: Facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: twitter
+  - name: Twitter
     url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
@@ -80,7 +80,7 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: instagram
+  - name: Instagram
     url-pattern: instagram.com/__USERNAME__
 
   - name: flickr
@@ -89,7 +89,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: Github
     url-pattern: github.com/fortifying
     icon-class: fab fa-2x fa-github
 
@@ -113,7 +113,7 @@ social-links:
   - name: steam
     url-pattern: steamcommunity.com/id/__USERNAME__
 
-  - name: youtube
+  - name: YouTube
     url-pattern: youtube.com/__USERNAME__
 
   - name: vimeo
@@ -137,7 +137,7 @@ social-links:
   - name: keybase
     url-pattern: keybase.io/__USERNAME__
 
-  - name: messenger
+  - name: Messenger
     url-pattern: m.me/__USERNAME__
     icon-class: fab fa-2x fa-facebook-messenger
 
@@ -154,7 +154,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-tags
 
-  - name: email
+  - name: Email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-envelope
