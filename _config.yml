@@ -13,10 +13,10 @@ favicon: 'fortizer.png'
 # Online profiles
 #dribbble: 'mydribbble'
 Facebook: 'myfacebook'
-Telegram: 'fortifying'
-Twitter: 'mytwitter'
+telegram: 'fortifying'
+twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-Instagram: 'myinsta'
+instagram: 'myinsta'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 Github: 'github.com/fortifying'
@@ -36,7 +36,7 @@ Github: 'github.com/fortifying'
 Email: 'darkcyborg7@gmail.com'
 Messenger: 'fb.com/ehyder.io'
 
-social-links-order: [Github, Facebook, Twitter, Telegram, Instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, Messenger, blog_url, Email]
+social-links-order: [Github, Facebook, twitter, telegram, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, Messenger, blog_url, Email]
 
 # Advanced settings
 plugins:
@@ -66,7 +66,7 @@ social-links:
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: Twitter
+  - name: twitter
     url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
@@ -81,7 +81,7 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: Instagram
+  - name: instagram
     url-pattern: instagram.com/__USERNAME__
 
   - name: flickr
@@ -142,7 +142,7 @@ social-links:
     url-pattern: m.me/__USERNAME__
     icon-class: fab fa-2x fa-facebook-messenger
 
-  - name: Telegram
+  - name: telegram
     url-pattern: telegram.me/__USERNAME__
 
   - name: snapchat
