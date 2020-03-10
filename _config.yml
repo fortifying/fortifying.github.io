@@ -12,13 +12,14 @@ favicon: 'fortizer.png'
 
 # Online profiles
 #dribbble: 'mydribbble'
-Facebook: 'myfacebook'
-Twitter: 'mytwitter'
+facebook: 'myfacebook'
+telegram: 't.me/fortifying'
+twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-Instagram: 'myinsta'
+instagram: 'myinsta'
 #pinterest: 'mypinterest'
-#YouTube: 'myyoutube'
-github: 'github.com/fortifying'
+#youtube: 'myyoutube'
+github-user: 'github.com/fortifying'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -32,8 +33,8 @@ github: 'github.com/fortifying'
 #weibo: 'myweibo'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
-Email: 'darkcyborg7@gmail.com'
-Messenger: 'fb.com/ehyder.io'
+email: 'darkcyborg7@gmail.com'
+messenger: 'fb.com/ehyder.io'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
@@ -61,11 +62,11 @@ plugins:
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: Facebook
+  - name: facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: Twitter
+  - name: twitter
     url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
@@ -80,7 +81,7 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: Instagram
+  - name: instagram
     url-pattern: instagram.com/__USERNAME__
 
   - name: flickr
@@ -89,7 +90,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github
+  - name: github-user
     url-pattern: github.com/fortifying
     icon-class: fab fa-2x fa-github
 
@@ -113,7 +114,7 @@ social-links:
   - name: steam
     url-pattern: steamcommunity.com/id/__USERNAME__
 
-  - name: YouTube
+  - name: youtube
     url-pattern: youtube.com/__USERNAME__
 
   - name: vimeo
@@ -137,7 +138,7 @@ social-links:
   - name: keybase
     url-pattern: keybase.io/__USERNAME__
 
-  - name: Messenger
+  - name: messenger
     url-pattern: m.me/__USERNAME__
     icon-class: fab fa-2x fa-facebook-messenger
 
@@ -154,7 +155,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-tags
 
-  - name: Email
+  - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-envelope
