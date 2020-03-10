@@ -2,13 +2,13 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Heinz Der Flugel'
+description: 'as gentle as a forest.'
 
 # Images
 avatar: 'avatar.jpg'
 background: 'background.jpg'
-favicon: 'favicon.ico'
+favicon: 'fortizer.png'
 
 # Online profiles
 #dribbble: 'mydribbble'
@@ -18,7 +18,7 @@ twitter: 'mytwitter'
 instagram: 'myinsta'
 #pinterest: 'mypinterest'
 youtube: 'myyoutube'
-github-user: 'mygithub'
+github-user: 'github.com/fortifying'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -90,7 +90,7 @@ social-links:
     url-pattern: pinterest.com/__USERNAME__
 
   - name: github-user
-    url-pattern: github.com/__USERNAME__
+    url-pattern: github.com/fortifying
     icon-class: fab fa-2x fa-github
 
   - name: gitlab-user
